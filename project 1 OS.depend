@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589152509 source:e:\codeforces\project 1 os\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
